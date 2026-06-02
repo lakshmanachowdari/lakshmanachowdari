@@ -1,4 +1,4 @@
-# Hi there! 👋 <img src="https://raw.githubusercontent.com/martin3zra/martin3zra/master/wave.gif" width="30px">
+# Hi I’m Lakshmana Chowdari  👋 <img src="https://raw.githubusercontent.com/martin3zra/martin3zra/master/wave.gif" width="30px">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshmanachowdari&color=blueviolet&style=flat-square" alt="visitor counter" />
