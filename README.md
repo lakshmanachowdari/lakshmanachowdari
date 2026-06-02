@@ -27,6 +27,7 @@ Beyond coding, I love sharing knowledge and connecting with the tech community!
 ### 🖥️ Backend Development
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%2300599C.svg?style=for-the-badge&logo=cloud-architecture&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### 🗄️ Databases & Testing
